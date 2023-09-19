@@ -1,0 +1,26 @@
+body{
+    background-image: url('photo.jpg');
+    background-size: cover;
+
+}
+table th{
+    color:black;
+    font-style: italic;
+    font-size: x-large;
+    
+}
+table td{
+    color:brown;
+    font-size: large;
+    
+}
+#edit{
+    color: blue;
+}
+#delete{
+    color: red;
+}
+#edi{
+    color: blueviolet;
+}
+
